@@ -7,10 +7,9 @@
 **Language Standard:** C++17 or later
 
 ## Student Details
-- Student Name: YOUR NAME
-- PRN: YOUR PRN
-- Class/Division: YOUR CLASS/DIVISION
-
+- Student Name: Sahil Dhumal 
+- PRN: 125UAD1158
+- Class/Division: SY B 
 ## Programs
 1. Function Overloading
 2. Area Calculator
